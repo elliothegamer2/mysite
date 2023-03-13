@@ -5,6 +5,6 @@ self.__uv$config = {
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/uv/uv.handler.js',
     bundle: 'assets/uv.bundle.js',
-    config: '/uv/uv.config.js',
+    config: 'assets/uv/uv.config.js',
     sw: '/uv/uv.sw.js',
 };
